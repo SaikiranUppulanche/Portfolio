@@ -38,7 +38,7 @@ function Projectlist() {
                 isBlog={false}
                 title="Recipe Website"
                 description="Recipe App built using React, in which a search bar is provided where users can input the desired Cuisine for which they want the Recipe.Below the search bar there aare four different categories of cuisines to select from, It contains two sections namely Vegetarian picks and Popular picks"
-                ghLink="https://weather-forecast-8a79e3.netlify.app/"
+                ghLink="https://recipe-app-891712.netlify.app/"
               />
             </Col>
           </Row>
